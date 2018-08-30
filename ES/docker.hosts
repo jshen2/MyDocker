@@ -1,3 +1,3 @@
-swarmnode1 129.150.72.215  es_master  oc3
-swarmnode2 129.150.215.0   es_data    oc3
-swarmnode3 129.150.206.210 es_data    oc3
+swarmnode1 129.150.72.215  swarm_master es_master oc3
+swarmnode2 129.150.215.0   swarm_worker es_data oc3
+swarmnode3 129.150.206.210 swarm_worker es_data  oc3
